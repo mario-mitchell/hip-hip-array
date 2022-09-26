@@ -13,7 +13,7 @@ const students = [
   'Tim',
   'Chris',
   'Lester',
-  'TJ',
+  'YJ',
 ];
 // Challenge 1 Code
 
@@ -212,3 +212,4 @@ console.log("\n");
   console.log(oneArray);
   console.log("\n");
   console.log(twoArray);
+
