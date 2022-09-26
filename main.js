@@ -9,21 +9,7 @@ console.log("Challenge 1");
 // Challenge 1
 //
 // Loop through the following array, console.logging out each value.
-const students = [
-    'Tre',
-    'Sonny',
-    'Crystal',
-    'Ilyas',
-    'Greg',
-    'Fernando',
-    'Timothy',
-    'Patrick',
-    'Steve',
-    'Jimothy',
-    'Pat',
-    'Arnold',
-    'Andy'
-  ];
+c
   // Challenge 1 Code
 
 
